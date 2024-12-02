@@ -2,8 +2,20 @@ MIT License
 
 Copyright (c) 2024 Bhoomika P M
 
-Anyone requesting a copy is hereby granted permission at no cost. With this program and its accompanying documentation files (the "Software"), to engage with the program without any limitations, including the rights to use, duplicate, alter, combine, publish, disseminate, sublicense, and/or market copies of the software, as well as to let those who are provided to do so, provided that the following requirements are met:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-All copies or significant portions of the software must have both this permission notice and the aforementioned copyright notice.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT, THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY KIND OF WARRANTY, EXPRESS OR IMPLIED. The authors and copyright holders will never be held accountable for any claims, damages, or other liabilities arising from, out of, or connected with the software or the use or other dealings in the software, whether in a contract, tort, or other action.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
